@@ -35,7 +35,7 @@
 
 <p align="center">
   <i style="font-size:16px;">
-   🧘🏻  Simplicity is the highest level of sophistication.
+    Good architecture is silent.
   </i>
 </p>
 <p align="center">
