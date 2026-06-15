@@ -4,7 +4,6 @@
 </p>
 
 ## 🚀 Featured Project
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300" />
 </p>
@@ -26,25 +25,19 @@
   </strong>
 </p>
 
-
 <p align="center">
-  <a href="https://crypto-app-ashy.vercel.app/">
-    <img src="https://img.shields.io/badge/Open%20Live%20Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://crypto-app-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-1C1C1E?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   </a>
 </p>
 
-
-
-## 🧘🏻 Philosophy
+<br/>
 
 <p align="center">
   <i style="font-size:16px;">
-    Simplicity is the highest level of sophistication.
+   🧘🏻  Simplicity is the highest level of sophistication.
   </i>
 </p>
-
-
-<!-- FOOTER (CLEAN APPLE STYLE) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:000000&height=90&section=footer" />
 </p>
