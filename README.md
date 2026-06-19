@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Real-time+UI+Systems;Crypto+Portfolio+Builder;Data-driven+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&height=32&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Engineer;Real-time+UI+Systems;Crypto+Portfolio+Builder;Data-driven+Web+Apps" />
 </p>
-
-## 🚀 Featured Project
+🚀 Featured Project
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
 </p>
