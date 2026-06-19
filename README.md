@@ -6,7 +6,10 @@
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" />
 </p>
 <p align="center">
-  ⚡ Live market data • 📊 Portfolio tracking • 📈 Real-time charts • 💱 Currency conversion
+  ◉ Live Market Engine &nbsp;&nbsp;
+  ⟣ Portfolio Intelligence &nbsp;&nbsp;
+  ▦ Data Visualization &nbsp;&nbsp;
+  ⟠ Currency Conversion
 </p>
 <p align="center">
   <a href="https://crypto-app-ashy.vercel.app/" target="_blank" rel="noopener noreferrer">
